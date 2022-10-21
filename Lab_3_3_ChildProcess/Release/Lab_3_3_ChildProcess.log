@@ -1,0 +1,7 @@
+﻿  Lab_3_3_ChildProcess.cpp
+D:\User\Documents\NSTU\Infa\c\Labs\Lab_3_3\Lab_3_3\Lab_3_3_ChildProcess\Lab_3_3_ChildProcess.cpp(8,9): warning C4068: неизвестная директива pragma
+D:\User\Documents\NSTU\Infa\c\Labs\Lab_3_3\Lab_3_3\Lab_3_3_ChildProcess\Lab_3_3_ChildProcess.cpp(18,41): error C2664: "HMODULE LoadLibraryW(LPCWSTR)": невозможно преобразовать аргумент 1 из "const char [15]" в "LPCWSTR"
+D:\User\Documents\NSTU\Infa\c\Labs\Lab_3_3\Lab_3_3\Lab_3_3_ChildProcess\Lab_3_3_ChildProcess.cpp(18,25): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+D:\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h(671,1): message : см. объявление "LoadLibraryW"
+D:\User\Documents\NSTU\Infa\c\Labs\Lab_3_3\Lab_3_3\Lab_3_3_ChildProcess\Lab_3_3_ChildProcess.cpp(28,30): error C2664: "void (int,LPTSTR [])": невозможно преобразовать аргумент 2 из "char *[]" в "LPTSTR []"
+D:\User\Documents\NSTU\Infa\c\Labs\Lab_3_3\Lab_3_3\Lab_3_3_ChildProcess\Lab_3_3_ChildProcess.cpp(28,26): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции

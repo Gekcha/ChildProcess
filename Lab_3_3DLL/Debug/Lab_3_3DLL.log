@@ -1,0 +1,3 @@
+﻿  dllmain.cpp
+C:\Users\ermak\source\repos\Lab_3_3\Lab_3_3DLL\dllmain.cpp(34,25): warning C4101: Bu: неиспользованная локальная переменная
+  Lab_3_3DLL.vcxproj -> C:\Users\ermak\source\repos\Lab_3_3\Debug\Lab_3_3DLL.dll
